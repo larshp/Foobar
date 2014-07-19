@@ -8,8 +8,8 @@ public section.
 *"* do not include other source files here!!!
 
   methods FOOBAR
-    exporting
-      !BAR type I .
+    returning
+      value(RV_TEXT) type TEXT50 .
   methods CONSTRUCTOR .
 protected section.
 *"* protected components of class ZCL_TEST
@@ -31,6 +31,10 @@ METHOD constructor.
 ENDMETHOD.
 
 
-method FOOBAR.
-endmethod.
+METHOD foobar.
+
+
+  rv_text = text-001.
+
+ENDMETHOD.
 ENDCLASS.
