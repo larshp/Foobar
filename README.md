@@ -1,4 +1,4 @@
 Foobar
 ======
 
-testing
+test
