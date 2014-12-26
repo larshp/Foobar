@@ -33,7 +33,7 @@ ENDMETHOD.
 
 METHOD foobar.
 
-  DATA: lv_rm TYPE i.
+  DATA: lv_rm TYPE c.
 
   rv_text = text-001.
 
