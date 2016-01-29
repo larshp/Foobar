@@ -1,9 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<abapGit version="v0.2-alpha">
- <AUTHX>
-  <FIELDNAME>ZFOO</FIELDNAME>
-  <ROLLNAME>XUBNAME</ROLLNAME>
-  <CHECKTABLE></CHECKTABLE>
-  <EXIT_FB></EXIT_FB>
- </AUTHX>
-</abapGit>
