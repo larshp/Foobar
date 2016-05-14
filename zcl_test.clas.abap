@@ -5,11 +5,19 @@ CLASS zcl_test DEFINITION
 
   PUBLIC SECTION.
   PROTECTED SECTION.
-  PRIVATE SECTION.
+private section.
+
+  methods HELLO .
 ENDCLASS.
 
 
 
-
 CLASS ZCL_TEST IMPLEMENTATION.
+
+
+METHOD hello.
+
+  WRITE: / 'hello world'.
+
+ENDMETHOD.
 ENDCLASS.
