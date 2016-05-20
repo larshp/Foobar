@@ -1,9 +1,9 @@
-CLASS zcl_test DEFINITION
-  PUBLIC
-  FINAL
-  CREATE PUBLIC .
+class ZCL_TEST definition
+  public
+  final
+  create public .
 
-  PUBLIC SECTION.
+public section.
   PROTECTED SECTION.
 private section.
 
