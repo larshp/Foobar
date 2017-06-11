@@ -17,7 +17,7 @@ CLASS ZCL_TEST IMPLEMENTATION.
 
 METHOD hello.
 
-  WRITE: / 'hello world'.
+  WRITE: / 'hello worldd'.
 
 ENDMETHOD.
 ENDCLASS.
